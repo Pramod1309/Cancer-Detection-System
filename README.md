@@ -27,10 +27,6 @@ An advanced AI-powered cancer detection system that uses machine learning to ana
   - 🟡 Yellow circles for low-risk areas
 - **Bounding Boxes**: Visual highlighting of detected regions
 
-## 🚀 Live Demo
-
-**Access the live application**: [Cancer Detection System](https://your-app-name.onrender.com)
-
 ## 🛠️ Technology Stack
 
 - **Backend**: Flask (Python)
@@ -44,16 +40,6 @@ An advanced AI-powered cancer detection system that uses machine learning to ana
 - Python 3.11 or higher
 - pip (Python package installer)
 - Git
-
-## 🔧 Installation
-
-### Local Development
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/cancer-detection-system.git
-   cd cancer-detection-system
-   ```
 
 2. **Create virtual environment**
    ```bash
